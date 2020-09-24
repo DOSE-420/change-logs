@@ -1,6 +1,6 @@
-You can now sell all kinds of jewellry and golds on Pawnshop.
+# 2:08 P.M. 9/24/2020
 
-["goldchain"] = $290 - $310
-["diamond_ring"] = $210 - $220
-["rolex"] = $210 - $220
-["10kgoldchain"] = $280 - $300
+- Fixed Gold Melting
+- Added Gold Selling Location
+- 16 Rolex = 1 Gold Bar
+- 32 Gold Chain = 1 Gold Bar
