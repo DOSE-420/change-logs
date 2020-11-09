@@ -1,4 +1,4 @@
-# Annapurna Roleplay Updates & Fixes :
+# Updates & Fixes :
 
-**CHANGE LOGS**
+**Get latest server updates and change logs of Annapurna Roleplay.**
  
